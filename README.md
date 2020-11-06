@@ -1,5 +1,6 @@
-# Pig_game
- basic javascript - Czechitas tutorial
+# Pig Game
+
+Javascript DOM manipulation
 
 HTML, CSS, JavaScript
 
@@ -8,3 +9,5 @@ If "1" falls on the dice, the player looses all the points.
 The player can choose "dost" ("enough") - the points are added to the total count of players points. After that, it is the second players turn.
 The game ends when one of the players reaches 100 points
 
+
+Tutorial challenge by [Czechitas](https://www.czechitas.cz/cs/)
